@@ -1,3 +1,3 @@
 # lab
 
-![Firefox_wallpaper](https://user-images.githubusercontent.com/88335759/204284394-272989f0-4498-49a5-838f-0911616b692c.png)
+![index](https://user-images.githubusercontent.com/88335759/204285412-5f651a9f-5704-49cd-bb09-ad444201e2d0.png)
